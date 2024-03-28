@@ -1,4 +1,4 @@
-### Hola, bienvenido a mi perfil 👋
+### Hello, welcome to my profile! 👋
 
-- Estudiante de T.S. en Mecatrónica en [Tecnológico del Azuay](https://www.tecazuay.edu.ec/mecatronica/) Instituto Universitario.
-- Técnico residente de mecatrónica en [Continental Tire Andina S.A.](https://www.continental-tires.com/ec/es/)
+- Student of Mechatronics at [Tecnológico del Azuay](https://www.tecazuay.edu.ec/mecatronica/) University Institute.
+- Mechatronics resident technician at [Continental Tire Andina S.A.](https://www.continental-tires.com/ec/es/)
