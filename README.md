@@ -2,19 +2,18 @@
 
 ### about( 'Eduardo' ) 
 - Student at [Tecnológico del Azuay](https://www.tecazuay.edu.ec/) University Institute.
-<br>   
+<br>
 
 ### get_skills_info( 'Stack' )
-- 404 - Resource not found / still in development.
-<br>  
+- 404 - Resource not found / still in development. 
+<br>
 
 ### get_github_analytics( )
 <a href="https://github.com/mreduum">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mreduum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mreduum&layout=compact&langs_count=4&theme=algolia"/>
 </a>
-
-<br><br>  
+<br>
 
 ### find_me( 'Social Media' )
 
@@ -24,7 +23,6 @@
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/71429572-e894-4758-b9b8-9c389bc71771" height="30">](https://instagram.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/358c9a09-7b83-4667-96f9-abc5d3ff9946" height="30">](https://threads.net)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/29550029-2c9d-40c2-9844-90b3a9927af2" height="30">](https://tiktok.com)
+<br>
 
-</br>
-
-<div align="center">Eduardo Mendieta - Abril, 2024</div>
+<div align="center">Eduardo Mendieta - Abril 2024</div>
