@@ -8,3 +8,6 @@
 
 ### get_metrics( )
 - 404 - Resource not found / still in development.
+
+### find_me( 'Social Media' )
+- 404 - Resource not found / still in development.
