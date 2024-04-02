@@ -1,4 +1,4 @@
-## Hello, welcome to my profile! 👋
+## Hello 👋
 
 ### about( 'Eduardo' ) 
 - Student at [Tecnológico del Azuay](https://www.tecazuay.edu.ec/) University Institute.
@@ -9,7 +9,13 @@
 <br>  
 
 ### get_metrics( )
-- 404 - Resource not found / still in development.
+<p align="center">
+  <a href="https://github.com/mreduum">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mreduum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mreduum&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
 <br>  
 
 ### find_me( 'Social Media' )
