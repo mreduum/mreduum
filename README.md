@@ -23,4 +23,4 @@
 
 </br>
 
-<div align="center">Eduardo Mendieta | Abril, 2024</div>
+<div align="center">Eduardo Mendieta - Abril, 2024</div>
