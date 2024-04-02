@@ -5,3 +5,6 @@
 
 ### get_skills_info( 'Stack' )
 - 404 - Resource not found / still in development.
+
+### get_metrics( )
+- 404 - Resource not found / still in development.
