@@ -20,3 +20,7 @@
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/71429572-e894-4758-b9b8-9c389bc71771" height="30">](https://instagram.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/358c9a09-7b83-4667-96f9-abc5d3ff9946" height="30">](https://threads.net)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/29550029-2c9d-40c2-9844-90b3a9927af2" height="30">](https://tiktok.com)
+
+</br>
+
+<div align="center">Eduardo Mendieta | Abril, 2024</div>
