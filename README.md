@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile! 👋
 
-### about('Eduardo') 
+### about( 'Eduardo' ) 
 - Student at [Tecnológico del Azuay](https://www.tecazuay.edu.ec/) University Institute.
 
 ### get_skills_info( 'Stack' )
