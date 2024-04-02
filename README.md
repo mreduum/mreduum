@@ -25,4 +25,4 @@
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/29550029-2c9d-40c2-9844-90b3a9927af2" height="30">](https://tiktok.com)
 <br>
 
-<div align="center">Eduardo Mendieta - Abril 2024</div>
+<div align="center"><b>Eduardo Mendieta - Abril 2024</b></div>
