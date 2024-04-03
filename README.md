@@ -7,13 +7,14 @@
 ### getSkillsInfo( 'Stack' );
 <b>"</b>I am developing these skills<b>" :  
 [</b>
-  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : Linux,
-  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : HTML,
-  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : PHP,
-  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : SQL,
-  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : Laravel,
-  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : Docker
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/7ac0186c-f8c9-4554-932e-6ff75e6d6495" height="16"> : Linux,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/fce9d878-a076-47e0-b73c-865917efc51d" height="16"> : HTML,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/d6ff7f7d-20aa-4522-8c08-abce6d5ec2e0" height="16"> : PHP,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/8ac5d9ca-70c2-4fc5-9676-60fc6cac5629" height="16"> : MySQL,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/0bf25eff-8f7b-4dde-8d8e-f0a9ebc7ef4c" height="16"> : Laravel,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/f3766593-f019-4a6a-a4e4-cc49ccb63ae7" height="16"> : Docker
 <b>]</b>
+
 <br>
 
 ### getGithubAnalytics( );
