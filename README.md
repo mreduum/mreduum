@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ### about( 'Eduardo' ) 
-- Student at [Tecnológico del Azuay](https://www.tecazuay.edu.ec/) University Institute.
+<p style="text-align: justify;">I'm Eduardo, an aspiring professional Backend developer. I'm specializing in PHP and Laravel to build my career as a freelancer. Currently, I'm developing my personal brand and will soon create an online portfolio. I appreciate any feedback to keep learning and contributing to the community.</p>
 <br>
 
 ### get_skills_info( 'Stack' )
