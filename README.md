@@ -5,7 +5,14 @@
 <br>
 
 ### getSkillsInfo( 'Stack' );
-- 404 - Resource not found / still in development. 
+<b>"</b>I am developing these skills<b>" :  [</b>
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : Linux,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : HTML,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : PHP,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : SQL,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : Laravel,
+  <img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="16"> : Docker
+<b>]</b>
 <br>
 
 ### getGithubAnalytics( );
