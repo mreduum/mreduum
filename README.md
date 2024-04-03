@@ -6,6 +6,7 @@
 
 ## getSkillsInfo( 'Stack' );
 <b>"</b>I am developing these skills<b>" :  
+<br>
 [</b>
   <img src="https://github.com/mreduum/mreduum/assets/136200861/7ac0186c-f8c9-4554-932e-6ff75e6d6495" height="16"> : Linux, 
   <img src="https://github.com/mreduum/mreduum/assets/136200861/fce9d878-a076-47e0-b73c-865917efc51d" height="16"> : HTML, 
