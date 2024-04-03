@@ -19,8 +19,8 @@
 
 ## getGithubAnalytics( );
 <a href="https://github.com/mreduum">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mreduum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mreduum&layout=compact&langs_count=4&theme=algolia"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mreduum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mreduum&layout=compact&langs_count=4&theme=algolia"/>
 </a>
 
 
