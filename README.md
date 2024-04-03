@@ -2,7 +2,7 @@
 
 ### about( 'Eduardo' ); 
 <p style="text-align: justify;">I'm Eduardo, an aspiring professional Backend developer. I'm specializing in PHP and Laravel to build my career as a freelancer. Currently, I'm developing my personal brand and will soon create an online portfolio. I appreciate any feedback to keep learning and contributing to the community.</p>
-<br>
+
 
 ### getSkillsInfo( 'Stack' );
 <b>"</b>I am developing these skills<b>" :  
@@ -15,14 +15,13 @@
   <img src="https://github.com/mreduum/mreduum/assets/136200861/f3766593-f019-4a6a-a4e4-cc49ccb63ae7" height="16"> : Docker
 <b>]</b>
 
-<br>
 
 ### getGithubAnalytics( );
 <a href="https://github.com/mreduum">
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mreduum&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mreduum&layout=compact&langs_count=4&theme=algolia"/>
 </a>
-<br>
+
 
 ### findme( 'Social Media' );
 
@@ -32,6 +31,7 @@
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/71429572-e894-4758-b9b8-9c389bc71771" height="30">](https://instagram.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/358c9a09-7b83-4667-96f9-abc5d3ff9946" height="30">](https://threads.net)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/29550029-2c9d-40c2-9844-90b3a9927af2" height="30">](https://tiktok.com)
+<br>
 <br>
 
 <div align="center"><b>Eduardo Mendieta - Abril 2024</b></div>
