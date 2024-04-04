@@ -26,7 +26,6 @@
 
 ## Find me ( 'Social Media' )
 
-[<img src="https://github.com/mreduum/mreduum/assets/136200861/efae5440-dd74-432a-a7d3-8882961ce3a8" height="30">](https://github.com/mreduum)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/dfd8bb42-3200-460f-9caa-28aead6c66d3" height="30">](https://linkedin.com/in/mreduum)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/a2d058b3-568c-4f8c-b36f-098cc1efe98e" height="30">](https://facebook.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/71429572-e894-4758-b9b8-9c389bc71771" height="30">](https://instagram.com)
