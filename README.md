@@ -1,4 +1,4 @@
-# Hello 👋
+# <img src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&weight=200&size=30&duration=4000&pause=1500&color=1B77F0&center=true&vCenter=true&width=344&height=24&lines=Hello,+welcome+:)">
 
 ## About ( 'Eduardo' )
 <p style="text-align: justify;">I'm Eduardo, an aspiring professional Backend developer. I'm specializing in PHP and Laravel to build my career as a freelancer. Currently, I'm developing my personal brand and will soon create an online portfolio. I appreciate any feedback to keep learning and contributing to the community.</p>
