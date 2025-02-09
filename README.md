@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&weight=200&size=30&duration=4000&pause=1500&color=1B77F0&center=true&vCenter=true&width=344&height=32&lines=Hello,+welcome+:)">
 
 ## About ( 'Eduardo' )
-<p style="text-align: justify;">I'm Eduardo, an aspiring professional Backend developer. I'm specializing in PHP and Laravel to build my career as a freelancer. Currently, I'm developing my personal brand and will soon create an online portfolio. I appreciate any feedback to keep learning and contributing to the community.</p>
+<p style="text-align: justify;">I'm mreduum, an aspiring professional Backend developer. I'm specializing in PHP and Laravel to build my career as a freelancer. Currently, I'm developing my personal brand and will soon create an online portfolio. I appreciate any feedback to keep learning and contributing to the community.</p>
 
 
 ## Get Skills Info ( 'Stack' )
@@ -25,7 +25,7 @@
 
 ## Find me ( 'Social Media' )
 
-[<img src="https://github.com/mreduum/mreduum/assets/136200861/dfd8bb42-3200-460f-9caa-28aead6c66d3" height="30">](https://linkedin.com/in/mreduum)
+[<img src="https://github.com/mreduum/mreduum/assets/136200861/dfd8bb42-3200-460f-9caa-28aead6c66d3" height="30">](https://linkedin.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/a2d058b3-568c-4f8c-b36f-098cc1efe98e" height="30">](https://facebook.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/71429572-e894-4758-b9b8-9c389bc71771" height="30">](https://instagram.com)
 [<img src="https://github.com/mreduum/mreduum/assets/136200861/358c9a09-7b83-4667-96f9-abc5d3ff9946" height="30">](https://threads.net)
@@ -33,4 +33,4 @@
 <br>
 <br>
 
-<div align="center"><b>Eduardo Mendieta - April 2nd, 2024</b></div>
+<div align="center"><b>mreduum - April 2nd, 2024</b></div>
